@@ -1,0 +1,21 @@
+=== INSPECTING ASSETS IN Assets/CS15/Char/Animations/Emotions/茜特菈莉_面部动画.fbx ===
+Clip: Face_Smile length: 2.458333 isHumanMotion: False
+Total curve bindings: 4
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Mouth_Smile01'
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.A'
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_L'
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_R'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Mouth_Smile01'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.A'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_L'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_R'
+Clip: __preview__Face_Smile length: 2.5 isHumanMotion: False
+Total curve bindings: 4
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Mouth_Smile01'
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.A'
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_L'
+  [SK] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_R'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Mouth_Smile01'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.A'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_L'
+  [Bone/Other] path='Face', type=SkinnedMeshRenderer, prop='blendShape.Eye_WinkA_R'
